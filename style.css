@@ -1,0 +1,20 @@
+html{
+    background-color: #B7E0FF;
+    text-align: center;
+}
+img{
+    height: auto;
+    width: auto;
+}
+h1{
+    color: #E78F81;
+}
+h2{
+    color: slateblue;
+}
+a{
+    color:rgb(255, 51, 0);
+}
+hr{
+    color: seagreen;
+}
