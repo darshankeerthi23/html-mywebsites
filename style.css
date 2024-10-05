@@ -8,12 +8,26 @@ img{
 }
 h1{
     color: #E78F81;
+  font-family: "Edu AU VIC WA NT Guides", cursive;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
 }
 h2{
     color: slateblue;
+    font-family: "Inconsolata", monospace;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
 }
-a{
+
+.project{
     color:rgb(255, 51, 0);
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 hr{
     color: seagreen;
